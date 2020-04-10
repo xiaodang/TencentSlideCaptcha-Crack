@@ -1,0 +1,7 @@
+numpy 
+opencv-python 
+Pillow 
+selenium 
+selenium-wire 
+python-socketio 
+requests
